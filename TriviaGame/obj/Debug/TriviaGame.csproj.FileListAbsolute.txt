@@ -1,0 +1,7 @@
+C:\Users\annaleya.hamilton\source\repos\annaleya.hamilton_TriviaGame\TriviaGame\TriviaGame\obj\Debug\TriviaGame.csproj.AssemblyReference.cache
+C:\Users\annaleya.hamilton\source\repos\annaleya.hamilton_TriviaGame\TriviaGame\TriviaGame\obj\Debug\TriviaGame.csproj.CoreCompileInputs.cache
+C:\Users\annaleya.hamilton\source\repos\annaleya.hamilton_TriviaGame\TriviaGame\TriviaGame\bin\Debug\TriviaGame.exe.config
+C:\Users\annaleya.hamilton\source\repos\annaleya.hamilton_TriviaGame\TriviaGame\TriviaGame\bin\Debug\TriviaGame.exe
+C:\Users\annaleya.hamilton\source\repos\annaleya.hamilton_TriviaGame\TriviaGame\TriviaGame\bin\Debug\TriviaGame.pdb
+C:\Users\annaleya.hamilton\source\repos\annaleya.hamilton_TriviaGame\TriviaGame\TriviaGame\obj\Debug\TriviaGame.exe
+C:\Users\annaleya.hamilton\source\repos\annaleya.hamilton_TriviaGame\TriviaGame\TriviaGame\obj\Debug\TriviaGame.pdb
